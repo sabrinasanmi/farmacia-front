@@ -6,13 +6,13 @@ function Home() {
     return (
         <>
             <div className="bg-black flex justify-center">
-                <div className='container grid grid-cols-2 text-beige'>
+                <div className='container grid grid-cols-2 text-[#D9D7CE]'>
                     <div className="flex flex-col gap-4 items-center justify-center py-4">
                         <h2 className='text-5xl font-bold'>
                             Olá! Que bom ter você aqui
                         </h2>
                         <p className='text-xl'>
-                            Encontre aqui o produto desejado.
+                            Encontre o produto desejado.
                         </p>
 
                     </div>
