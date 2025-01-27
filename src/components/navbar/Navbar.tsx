@@ -16,7 +16,7 @@ function Navbar() {
             <Link to='/categorias' className='font-bold hover:font-normal hover:text-pink'>
                 Categorias
             </Link>
-            <Link to='/cadastrarcategorias' className='font-bold hover:font-normal hover:text-pink'>
+            <Link to='/cadastrarcategoria' className='font-bold hover:font-normal hover:text-pink'>
                 Cadastrar categorias
             </Link>
         </div>
